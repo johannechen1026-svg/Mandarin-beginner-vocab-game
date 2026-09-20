@@ -1,0 +1,6 @@
+{
+  "name": "Chinese Vocab Game",
+  "description": "Interactive Chinese vocabulary learning game for beginners to memorize essential words including hello, good morning, teacher, pronouns, and goodbye.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
